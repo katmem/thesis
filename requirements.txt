@@ -15,7 +15,6 @@ cryptography==2.9.2
 daphne==2.5.0
 dataclasses==0.7
 Django==2.2
-django-autocomplete==0.9
 django-autocomplete-light==3.5.1
 django-autoslug-iplweb==1.9.4.dev0
 django-bootstrap4==1.1.1
